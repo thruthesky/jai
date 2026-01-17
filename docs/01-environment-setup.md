@@ -5,24 +5,51 @@
 CAI 프로젝트는 **Macbook M4 (MPS GPU)**를 기준으로 설계되었습니다.
 Apple Silicon은 PyTorch의 MPS(Metal Performance Shaders) GPU 가속을 지원하여 개인이 LLM을 학습하기에 매우 좋은 환경입니다.
 
-## 1. Python 가상환경 설정
+## 1. uv 설치
+
+uv는 Astral에서 만든 현대적인 Python 패키지 관리 도구입니다. pip/venv를 대체하며 10~100배 빠릅니다.
 
 ```bash
-# 프로젝트 디렉토리로 이동
-cd cai
+# macOS/Linux
+curl -LsSf https://astral.sh/uv/install.sh | sh
 
-# Python 가상환경 생성
-python -m venv .venv
-
-# 가상환경 활성화
-source .venv/bin/activate
+# 또는 Homebrew (macOS)
+brew install uv
 ```
 
 ## 2. 필수 패키지 설치
 
 ```bash
-pip install torch torchvision torchaudio
-pip install tokenizers tqdm numpy
+# 프로젝트 디렉토리로 이동
+cd cai
+
+# 의존성 추가 (pyproject.toml에 기록됨)
+uv add torch torchvision torchaudio
+uv add tokenizers tqdm numpy
+```
+
+### uv의 장점
+
+- **activate 불필요**: `uv run` 명령으로 항상 일관된 환경에서 실행
+- **빠른 속도**: pip 대비 10~100배 빠른 패키지 설치
+- **프로젝트 격리**: pyproject.toml 기반으로 의존성 관리
+
+### pyproject.toml 예시
+
+`uv add` 명령을 실행하면 자동으로 생성/업데이트됩니다:
+
+```toml
+[project]
+name = "cai"
+version = "0.1.0"
+description = "From-scratch tiny GPT for global contact info summarization"
+requires-python = ">=3.10"
+dependencies = [
+  "numpy",
+  "tokenizers",
+  "torch",
+  "tqdm",
+]
 ```
 
 ### 패키지 설명
@@ -56,10 +83,11 @@ print(device)
 MPS는 빠르지만, 일부 연산이 미구현일 수 있어 에러가 날 때가 있습니다.
 이때 CPU로 자동 fallback시키는 환경 변수를 설정합니다.
 
-### 터미널에서 설정
+### uv run과 함께 사용 (권장)
 
 ```bash
-export PYTORCH_ENABLE_MPS_FALLBACK=1
+# 실행 시 환경 변수 지정
+PYTORCH_ENABLE_MPS_FALLBACK=1 uv run python train.py
 ```
 
 ### .bashrc 또는 .zshrc에 영구 설정
@@ -70,11 +98,12 @@ echo 'export PYTORCH_ENABLE_MPS_FALLBACK=1' >> ~/.zshrc
 source ~/.zshrc
 ```
 
+영구 설정 시 `uv run python train.py`만으로 실행 가능합니다.
+
 ### 주의사항
 
-- 이 환경 변수는 **터미널에서 export**하는 것이 권장됩니다.
-- 파이썬 코드 내부에서 설정하지 마세요.
 - Fallback이 발생하면 해당 연산은 CPU에서 실행되므로 약간 느려질 수 있습니다.
+- 파이썬 코드 내부에서 설정하지 마세요.
 
 ## 5. 디바이스 자동 선택 코드
 
@@ -149,7 +178,7 @@ print("=" * 50)
 
 실행:
 ```bash
-python check_env.py
+uv run python check_env.py
 ```
 
 ## 7. 메모리 관련 팁

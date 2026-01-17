@@ -55,10 +55,10 @@ Step 3: ['low', ' ', 'low', 'e', 'r', ' ', 'low', 'e', 's', 't']  # 'lo'+'w' 병
 | `[BOS]` | 문장 시작 (Beginning of Sentence) |
 | `[EOS]` | 문장 끝 (End of Sentence) |
 
-## 토크나이저 학습 스크립트 (02_train_tokenizer.py)
+## 토크나이저 학습 스크립트 (scripts/train_tokenizer.py)
 
 ```python
-# 02_train_tokenizer.py
+# scripts/train_tokenizer.py
 # 설명: BPE 토크나이저를 내 데이터로 직접 학습
 # 입력: data/samples.txt
 # 출력: data/tokenizer.json
@@ -134,7 +134,7 @@ for text in test_texts:
 
 ```bash
 # 전제: data/samples.txt가 있어야 함
-python 02_train_tokenizer.py
+uv run python scripts/train_tokenizer.py
 ```
 
 ### 예상 출력
@@ -157,12 +157,12 @@ ID: [100, 4567]
 ...
 ```
 
-## 토큰화 → 바이너리 변환 (03_build_bin_dataset.py)
+## 토큰화 → 바이너리 변환 (scripts/build_bin_dataset.py)
 
 토크나이저 학습이 완료되면, 전체 텍스트를 토큰 ID 배열로 변환합니다.
 
 ```python
-# 03_build_bin_dataset.py
+# scripts/build_bin_dataset.py
 # 설명: 텍스트를 토큰 ID 배열로 변환하여 바이너리로 저장
 # 입력: data/samples.txt, data/tokenizer.json
 # 출력: data/train.bin, data/val.bin
@@ -226,7 +226,7 @@ print(f"검증 데이터: {len(val):,} 토큰 → {VAL_OUT}")
 ## 실행 방법
 
 ```bash
-python 03_build_bin_dataset.py
+uv run python scripts/build_bin_dataset.py
 ```
 
 ### 예상 출력

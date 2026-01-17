@@ -44,10 +44,10 @@ class CFG:
     top_k: int = 50
 ```
 
-## 전체 학습 스크립트 (04_train_gpt_from_scratch.py)
+## 전체 학습 스크립트 (scripts/train_gpt.py)
 
 ```python
-# 04_train_gpt_from_scratch.py
+# scripts/train_gpt.py
 # 설명: GPT 모델을 처음부터 학습하는 완전한 스크립트
 # 기능:
 #   - MPS/CUDA/CPU 자동 선택
@@ -412,8 +412,8 @@ print(f"학습 완료. 소요 시간: {time.time() - t0:.1f}초")
 # MPS fallback 활성화 (Mac)
 export PYTORCH_ENABLE_MPS_FALLBACK=1
 
-# 학습 시작
-python 04_train_gpt_from_scratch.py
+# 학습 시작 (MPS fallback 활성화)
+PYTORCH_ENABLE_MPS_FALLBACK=1 uv run python scripts/train_gpt.py
 ```
 
 ## 학습 모니터링
@@ -486,7 +486,7 @@ cfg.n_embd = 256  # 384 → 256
 
 ```bash
 # 학습 재개 (자동으로 체크포인트 로드)
-python 04_train_gpt_from_scratch.py
+PYTORCH_ENABLE_MPS_FALLBACK=1 uv run python scripts/train_gpt.py
 ```
 
 ## 다음 단계

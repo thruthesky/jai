@@ -141,10 +141,10 @@ TEL: 1234-5678
 [/ANSWER]
 ```
 
-## 4. 전처리 스크립트 (01_prepare_samples.py)
+## 4. 전처리 스크립트 (scripts/prepare_samples.py)
 
 ```python
-# 01_prepare_samples.py
+# scripts/prepare_samples.py
 # 설명: raw.txt를 학습 가능한 형식으로 변환하는 스크립트
 # 역할: 텍스트 정규화, 청크 분할, 학습 샘플 생성
 
@@ -340,7 +340,7 @@ if __name__ == "__main__":
 ls data/raw.txt
 
 # 전처리 스크립트 실행
-python 01_prepare_samples.py
+uv run python scripts/prepare_samples.py
 ```
 
 ### 예상 출력

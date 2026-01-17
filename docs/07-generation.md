@@ -36,10 +36,10 @@ GPT는 **Autoregressive** 방식으로 텍스트를 생성합니다:
 
 `[ANSWER] 요약: -` 까지 입력하면, 모델이 자연스럽게 이어서 작성합니다.
 
-## 생성 스크립트 (05_generate.py)
+## 생성 스크립트 (scripts/generate.py)
 
 ```python
-# 05_generate.py
+# scripts/generate.py
 # 설명: 학습된 모델로 텍스트 생성
 # 입력: checkpoints/ckpt.pt, data/tokenizer.json
 # 출력: 콘솔에 생성된 텍스트 출력
@@ -262,7 +262,7 @@ if __name__ == "__main__":
 ## 실행 방법
 
 ```bash
-python 05_generate.py
+uv run python scripts/generate.py
 ```
 
 ## 샘플링 파라미터 이해

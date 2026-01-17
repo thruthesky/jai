@@ -11,20 +11,30 @@
 ## 빠른 시작
 
 ```bash
-# 1. 환경 설정
-python -m venv venv
-source venv/bin/activate
-pip install torch tokenizers tqdm numpy
+# 1. 의존성 설치 (uv 사용)
+uv add torch tokenizers tqdm numpy
 
-# 2. MPS fallback 설정 (권장)
-export PYTORCH_ENABLE_MPS_FALLBACK=1
+# 2. 순차 실행
+uv run python scripts/prepare_samples.py      # 데이터 전처리
+uv run python scripts/train_tokenizer.py      # 토크나이저 학습
+uv run python scripts/build_bin_dataset.py    # 바이너리 데이터셋 생성
+PYTORCH_ENABLE_MPS_FALLBACK=1 uv run python scripts/train_gpt.py  # GPT 모델 학습
+uv run python scripts/generate.py             # 텍스트 생성
+```
 
-# 3. 순차 실행
-python 01_prepare_samples.py      # 데이터 전처리
-python 02_train_tokenizer.py      # 토크나이저 학습
-python 03_build_bin_dataset.py    # 바이너리 데이터셋 생성
-python 04_train_gpt_from_scratch.py  # GPT 모델 학습
-python 05_generate.py             # 텍스트 생성
+## 프로젝트 구조
+
+```
+cai/
+  data/                  # 데이터 디렉토리
+  scripts/               # 실행 스크립트
+    prepare_samples.py   # 데이터 전처리
+    train_tokenizer.py   # 토크나이저 학습
+    build_bin_dataset.py # 바이너리 변환
+    train_gpt.py         # GPT 학습
+    generate.py          # 텍스트 생성
+  checkpoints/           # 모델 체크포인트
+  pyproject.toml         # uv 프로젝트 설정
 ```
 
 ## 문서 목록
