@@ -41,7 +41,7 @@ uv add torch tokenizers tqdm numpy
 uv run python scripts/prepare_samples.py      # 데이터 전처리 → data/samples.txt
 uv run python scripts/train_tokenizer.py      # BPE 토크나이저 → data/tokenizer.json
 uv run python scripts/build_bin_dataset.py    # 바이너리 변환 → data/train.bin, data/val.bin
-PYTORCH_ENABLE_MPS_FALLBACK=1 uv run python scripts/train_gpt.py  # GPT 학습 → checkpoints/ckpt.pt
+uv run python scripts/train_gpt.py         # GPT 학습 → checkpoints/ckpt.pt
 uv run python scripts/generate.py             # 텍스트 생성
 ```
 

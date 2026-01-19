@@ -311,62 +311,6 @@ generate_text(prompt, top_k=100)
 | 일반적 사용 | 0.9 | 50 |
 | 창의적 글쓰기 | 1.1 | 100 |
 
-## 대화형 생성 예시
-
-```python
-# interactive_generate.py
-# 대화형으로 질문하고 답변 받기
-
-from tokenizers import Tokenizer
-import torch
-# ... (모델 로드 코드 생략)
-
-def interactive_mode():
-    """대화형 생성 모드"""
-    print("=" * 60)
-    print("CAI (Contact AI) 대화형 모드")
-    print("종료하려면 'quit' 또는 'exit' 입력")
-    print("=" * 60)
-
-    while True:
-        print()
-        user_input = input("질문: ").strip()
-
-        if user_input.lower() in ['quit', 'exit']:
-            print("종료합니다.")
-            break
-
-        if not user_input:
-            continue
-
-        # 프롬프트 구성
-        prompt = f"""[QUESTION]
-{user_input}
-[/QUESTION]
-
-[ANSWER]
-요약:
--"""
-
-        print("\n[답변]")
-        print("-" * 40)
-        result = generate_text(prompt, max_new_tokens=500, temperature=0.8, top_k=50)
-
-        # [ANSWER] 부분만 추출
-        if "[ANSWER]" in result:
-            answer = result.split("[ANSWER]")[1]
-            if "[/ANSWER]" in answer:
-                answer = answer.split("[/ANSWER]")[0]
-            print(answer.strip())
-        else:
-            print(result[len(prompt):])
-
-        print("-" * 40)
-
-if __name__ == "__main__":
-    interactive_mode()
-```
-
 ## 생성 결과 예시
 
 ### 입력 프롬프트
@@ -409,35 +353,6 @@ if __name__ == "__main__":
 상세 설명:
 주일 대한민국 대사관은 도쿄 미나토구에 위치하고 있습니다...
 [/ANSWER]
-```
-
-## 문제 해결
-
-### 모델이 헛소리할 때
-
-```python
-# temperature 낮추기
-generate_text(prompt, temperature=0.7)
-
-# top_k 줄이기
-generate_text(prompt, top_k=20)
-```
-
-### 출력이 너무 짧을 때
-
-```python
-# max_new_tokens 늘리기
-generate_text(prompt, max_new_tokens=600)
-```
-
-### 반복이 심할 때
-
-```python
-# temperature 높이기
-generate_text(prompt, temperature=1.0)
-
-# top_k 늘리기
-generate_text(prompt, top_k=80)
 ```
 
 ## 다음 단계

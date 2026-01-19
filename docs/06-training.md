@@ -49,12 +49,11 @@ class CFG:
 ```python
 # scripts/train_gpt.py
 # 설명: GPT 모델을 처음부터 학습하는 완전한 스크립트
-# 기능:
-#   - MPS/CUDA/CPU 자동 선택
-#   - 체크포인트 저장/재개
-#   - 학습 중간 샘플 생성
 
 import os
+# MPS fallback 설정 (torch import 전에 반드시 설정)
+os.environ["PYTORCH_ENABLE_MPS_FALLBACK"] = "1"
+
 import math
 import time
 import numpy as np
@@ -409,11 +408,7 @@ print(f"학습 완료. 소요 시간: {time.time() - t0:.1f}초")
 ## 실행 방법
 
 ```bash
-# MPS fallback 활성화 (Mac)
-export PYTORCH_ENABLE_MPS_FALLBACK=1
-
-# 학습 시작 (MPS fallback 활성화)
-PYTORCH_ENABLE_MPS_FALLBACK=1 uv run python scripts/train_gpt.py
+uv run python scripts/train_gpt.py
 ```
 
 ## 학습 모니터링
@@ -485,8 +480,7 @@ cfg.n_embd = 256  # 384 → 256
 체크포인트가 자동으로 저장되므로, 스크립트를 다시 실행하면 자동으로 재개됩니다.
 
 ```bash
-# 학습 재개 (자동으로 체크포인트 로드)
-PYTORCH_ENABLE_MPS_FALLBACK=1 uv run python scripts/train_gpt.py
+uv run python scripts/train_gpt.py
 ```
 
 ## 다음 단계

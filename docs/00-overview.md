@@ -69,18 +69,10 @@ LLM을 처음부터 학습하면 기본적으로 **다음 토큰 예측(next-tok
 요약 능력 = 알고리즘이 아니라 "데이터 포맷"으로 만든다.
 ```
 
-## 권장 학습 레퍼런스
+## 참고 자료
 
-### 1순위: build-nanogpt
-Karpathy가 "빈 파일부터 GPT-2까지" 커밋 단위로 만들어서 공부하기 최고입니다.
-- https://github.com/karpathy/build-nanogpt
-
-### 토크나이저: Hugging Face tokenizers
-BPE 토크나이저 학습/저장을 공식 문서로 확인할 수 있습니다.
-- https://huggingface.co/docs/tokenizers
-
-### (선택) TinyStories 논문
-"작은 모델도 말 되게 만들 수 있냐?"를 보여주는 대표 자료입니다.
+- [build-nanogpt](https://github.com/karpathy/build-nanogpt) - Karpathy의 GPT 구현 튜토리얼
+- [Hugging Face tokenizers](https://huggingface.co/docs/tokenizers) - BPE 토크나이저 공식 문서
 
 ## 다음 단계
 

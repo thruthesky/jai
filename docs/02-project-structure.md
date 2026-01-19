@@ -87,7 +87,7 @@ uv run python scripts/train_tokenizer.py
 uv run python scripts/build_bin_dataset.py
 
 # 4) LLM 학습 (train.bin, val.bin → checkpoints/ckpt.pt)
-PYTORCH_ENABLE_MPS_FALLBACK=1 uv run python scripts/train_gpt.py
+uv run python scripts/train_gpt.py
 
 # 5) 생성 테스트
 uv run python scripts/generate.py
@@ -130,8 +130,6 @@ scripts/train_tokenizer.py   scripts/build_bin_dataset.py
 
 ## 프로젝트 초기 설정
 
-### uv로 프로젝트 생성
-
 ```bash
 # 새 프로젝트 생성
 uv init cai
@@ -142,24 +140,6 @@ mkdir -p data scripts checkpoints docs
 
 # 의존성 추가
 uv add torch tokenizers tqdm numpy
-```
-
-### 폴더 생성만 필요한 경우
-
-```bash
-# 프로젝트 루트에서 실행
-mkdir -p data scripts checkpoints docs
-```
-
-또는 Python으로:
-
-```python
-import os
-
-# 필요한 디렉토리 생성
-for dir_name in ['data', 'scripts', 'checkpoints', 'docs']:
-    os.makedirs(dir_name, exist_ok=True)
-    print(f"Created: {dir_name}/")
 ```
 
 ## 다음 단계
