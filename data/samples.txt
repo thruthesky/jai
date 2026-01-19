@@ -1,0 +1,1240 @@
+[QUESTION]
+이 연락처 정보를 이해하기 쉽게 요약해줘.
+[/QUESTION]
+
+[DOC]
+# 전 세계 구인/구직 정보 원본 데이터
+# JAI 학습용 샘플 데이터
+
+=== Google Inc. 채용 공고 ===
+
+회사명: Google Inc.
+포지션: Senior Software Engineer
+부서: Cloud Platform Team
+위치: Mountain View, CA, USA
+고용형태: 정규직 (Full-time)
+연봉: $150,000 - $250,000 (경력에 따라 협의)
+경력: 5년 이상
+
+업무 내용:
+- 대규모 분산 시스템 설계 및 구현
+- Google Cloud Platform 핵심 서비스 개발
+- 코드 리뷰 및 팀원 멘토링
+- 기술 문서 작성 및 아키텍처 설계
+
+자격 요건:
+- Computer Science 또는 관련 학과 학사 이상
+- Python, Go, Java 중 2개 이상 능숙
+- 분산 시스템 경험 필수
+- 영어 의사소통 가능
+
+우대 사항:
+- Kubernetes, Docker 경험
+- 오픈소스 기여 경험
+- 석사/박사 학위
+
+복리후생:
+- 의료보험 100% 지원
+- 401(k) 매칭
+- 무료 식사 및 스낵
+- 연간 교육비 지원 $10,000
+- 재택근무 가능
+
+TEL: +1-650-253-0000
+EMAIL: careers@google.com
+WEB: https://careers.google.com
+[/DOC]
+
+[ANSWER]
+요약:
+- # 전 세계 구인/구직 정보 원본 데이터 # JAI 학습용 샘플 데이터  === Google Inc. 채용 공고 ===  회사명: Google Inc. 포지션: Senior Software Engineer 부서: Cloud Platform Team 위치: Mountain View, CA, USA 고용형태: 정규직 (Full-time) 연봉: $150,000 ...
+
+체크리스트:
+- 해야 할 일:
+  - (1) 핵심 행동 1
+  - (2) 핵심 행동 2
+- 준비물:
+  - (1) 필요한 서류/정보
+- 주의사항:
+  - (1) 실수하기 쉬운 점
+
+연락처(공공정보):
+- TEL: +1-650-253-0000
+- WEB: https://careers.google.com
+- EMAIL: careers@google.com
+
+상세 설명:
+이 문서는 연락처 정보를 담고 있습니다.
+위 요약과 체크리스트를 기준으로 실제 상황에 맞게 단계별로 진행하세요.
+연락처 정보는 변경될 수 있으므로 공식 웹사이트에서 최신 정보를 확인하는 것이 좋습니다.
+[/ANSWER]
+
+[QUESTION]
+이 연락처 정보를 이해하기 쉽게 요약해줘.
+[/QUESTION]
+
+[DOC]
+=== 삼성전자 반도체 연구소 채용 ===
+
+회사명: 삼성전자 주식회사
+부문: DS부문 (Device Solutions)
+포지션: AI 반도체 설계 엔지니어
+위치: 경기도 화성시 삼성전자로 1
+고용형태: 정규직
+연봉: 6,000만원 - 1억원 (경력에 따라)
+경력: 신입/경력 무관
+
+업무 내용:
+- 차세대 AI 가속기 설계
+- NPU(Neural Processing Unit) 아키텍처 개발
+- RTL 설계 및 검증
+- 성능 최적화 및 전력 효율 개선
+
+자격 요건:
+- 전자공학, 컴퓨터공학 석사 이상
+- Verilog/VHDL 설계 경험
+- 디지털 회로 설계 기초 지식
+- 영어 논문 독해 가능
+
+우대 사항:
+- ASIC 설계 경험
+- 머신러닝/딥러닝 이해
+- 해외 학회 논문 게재 경험
+
+복리후생:
+- 기숙사 제공
+- 통근버스 운행
+- 자녀 학자금 지원
+- 연간 건강검진
+- 휴양시설 이용 가능
+
+TEL: 02-2255-0114
+ADDR: 경기도 화성시 삼성전자로 1
+WEB: https://www.samsung.com/sec/careers
+
+=== Amazon WEB: Services (AWS) Japan 채용 ===
+
+Company: Amazon WEB: Services Japan
+Position: Solutions Architect
+Location: Tokyo, Japan (Meguro Office)
+Employment Type: Full-time
+Salary: ¥12,000,000 - ¥20,000,000 per year
+Experience: 3+ years
+[/DOC]
+
+[ANSWER]
+요약:
+- === 삼성전자 반도체 연구소 채용 ===  회사명: 삼성전자 주식회사 부문: DS부문 (Device Solutions) 포지션: AI 반도체 설계 엔지니어 위치: 경기도 화성시 삼성전자로 1 고용형태: 정규직 연봉: 6,000만원 - 1억원 (경력에 따라) 경력: 신입/경력 무관  업무 내용: - 차세대 AI 가속기 설계 - NPU(Neural Proce ...
+
+체크리스트:
+- 해야 할 일:
+  - (1) 핵심 행동 1
+  - (2) 핵심 행동 2
+- 준비물:
+  - (1) 필요한 서류/정보
+- 주의사항:
+  - (1) 실수하기 쉬운 점
+
+연락처(공공정보):
+- TEL: 02-2255-0114
+- WEB: https://www.samsung.com/sec/careers
+- WEB: Services
+
+상세 설명:
+이 문서는 연락처 정보를 담고 있습니다.
+위 요약과 체크리스트를 기준으로 실제 상황에 맞게 단계별로 진행하세요.
+연락처 정보는 변경될 수 있으므로 공식 웹사이트에서 최신 정보를 확인하는 것이 좋습니다.
+[/ANSWER]
+
+[QUESTION]
+체크리스트와 연락처 중심으로 정리해줘.
+[/QUESTION]
+
+[DOC]
+Job Description:
+- 고객사 클라우드 아키텍처 설계 컨설팅
+- AWS 서비스 기술 지원
+- 프리세일즈 기술 미팅 참여
+- 고객 성공 사례 문서화
+
+Requirements:
+- IT 인프라 또는 소프트웨어 개발 경력 3년 이상
+- 일본어 비즈니스 레벨 (JLPT N1 권장)
+- 영어 의사소통 가능
+- 클라우드 컴퓨팅 기본 이해
+
+Preferred:
+- AWS 자격증 보유 (SAA, SAP 등)
+- 프로그래밍 경험 (Python, Java 등)
+- 프레젠테이션 스킬
+
+Benefits:
+- 비자 스폰서십 제공
+- RSU (주식 보상)
+- 건강보험 및 연금
+- 영어 교육 지원
+
+TEL: +81-3-6367-4000
+EMAIL: aws-japan-careers@amazon.com
+WEB: https://www.amazon.jobs/jp
+
+=== 스타트업 개발자 채용 (토스) ===
+
+회사명: 비바리퍼블리카 (토스)
+포지션: Backend Engineer
+팀: 토스뱅크 서버 개발팀
+위치: 서울특별시 강남구 테헤란로 142
+고용형태: 정규직
+연봉: 5,500만원 - 1억 2천만원
+경력: 3년 이상
+
+업무 내용:
+- 토스뱅크 핵심 금융 서비스 개발
+- 대용량 트래픽 처리 시스템 설계
+- MSA 기반 서비스 개발
+- 실시간 데이터 처리 파이프라인 구축
+[/DOC]
+
+[ANSWER]
+요약:
+- Job Description: - 고객사 클라우드 아키텍처 설계 컨설팅 - AWS 서비스 기술 지원 - 프리세일즈 기술 미팅 참여 - 고객 성공 사례 문서화  Requirements: - IT 인프라 또는 소프트웨어 개발 경력 3년 이상 - 일본어 비즈니스 레벨 (JLPT N1 권장) - 영어 의사소통 가능 - 클라우드 컴퓨팅 기본 이해  Preferred ...
+
+체크리스트:
+- 해야 할 일:
+  - (1) 핵심 행동 1
+  - (2) 핵심 행동 2
+- 준비물:
+  - (1) 필요한 서류/정보
+- 주의사항:
+  - (1) 실수하기 쉬운 점
+
+연락처(공공정보):
+- TEL: +81-3-6367-4000
+- WEB: https://www.amazon.jobs/jp
+- EMAIL: aws-japan-careers@amazon.com
+
+상세 설명:
+이 문서는 연락처 정보를 담고 있습니다.
+위 요약과 체크리스트를 기준으로 실제 상황에 맞게 단계별로 진행하세요.
+연락처 정보는 변경될 수 있으므로 공식 웹사이트에서 최신 정보를 확인하는 것이 좋습니다.
+[/ANSWER]
+
+[QUESTION]
+핵심 연락처와 주의사항을 정리해줘.
+[/QUESTION]
+
+[DOC]
+자격 요건:
+- Java/Kotlin 백엔드 개발 경력 3년 이상
+- Spring Framework 숙련자
+- RDBMS 및 NoSQL 경험
+- Git 기반 협업 경험
+
+우대 사항:
+- 금융권 시스템 개발 경험
+- Kafka, Redis 경험
+- 대규모 트래픽 처리 경험
+
+복리후생:
+- 스톡옵션 부여
+- 자율 출퇴근
+- 무제한 휴가
+- 최신 장비 지원
+- 교육비 무제한
+
+TEL: 1599-4905
+EMAIL: recruit@toss.im
+WEB: https://toss.im/career
+
+=== Microsoft Corporation 채용 ===
+
+Company: Microsoft Corporation
+Position: Principal Product Manager
+Division: Azure AI Platform
+Location: Redmond, WA, USA (Hybrid)
+Employment: Full-time
+Salary: $180,000 - $300,000 + Bonus + Stock
+Experience: 8+ years
+
+Responsibilities:
+- Azure AI 제품 로드맵 수립
+- 크로스펑셔널 팀 리드
+- 고객 피드백 분석 및 반영
+- 경쟁사 분석 및 시장 조사
+[/DOC]
+
+[ANSWER]
+요약:
+- 자격 요건: - Java/Kotlin 백엔드 개발 경력 3년 이상 - Spring Framework 숙련자 - RDBMS 및 NoSQL 경험 - Git 기반 협업 경험  우대 사항: - 금융권 시스템 개발 경험 - Kafka, Redis 경험 - 대규모 트래픽 처리 경험  복리후생: - 스톡옵션 부여 - 자율 출퇴근 - 무제한 휴가 - 최신 장비 지원 - ...
+
+체크리스트:
+- 해야 할 일:
+  - (1) 핵심 행동 1
+  - (2) 핵심 행동 2
+- 준비물:
+  - (1) 필요한 서류/정보
+- 주의사항:
+  - (1) 실수하기 쉬운 점
+
+연락처(공공정보):
+- TEL: 1599-4905
+- WEB: https://toss.im/career
+- EMAIL: recruit@toss.im
+
+상세 설명:
+이 문서는 연락처 정보를 담고 있습니다.
+위 요약과 체크리스트를 기준으로 실제 상황에 맞게 단계별로 진행하세요.
+연락처 정보는 변경될 수 있으므로 공식 웹사이트에서 최신 정보를 확인하는 것이 좋습니다.
+[/ANSWER]
+
+[QUESTION]
+핵심 연락처와 주의사항을 정리해줘.
+[/QUESTION]
+
+[DOC]
+Requirements:
+- PM 또는 엔지니어링 경력 8년 이상
+- AI/ML 제품 경험
+- 뛰어난 커뮤니케이션 스킬
+- MBA 또는 CS 석사 우대
+
+Benefits:
+- 의료/치과/안과 보험
+- 401(k) 매칭 50%
+- Employee Stock Purchase Plan
+- 육아휴직 20주
+- 웰니스 프로그램
+
+TEL: +1-425-882-8080
+EMAIL: careers@microsoft.com
+WEB: https://careers.microsoft.com
+
+=== 독일 SAP 채용 공고 ===
+
+Unternehmen: SAP SE
+Position: Cloud Developer
+Standort: Walldorf, Deutschland
+Beschäftigung: Vollzeit
+Gehalt: €70,000 - €100,000 pro Jahr
+Erfahrung: 2+ Jahre
+
+Aufgaben:
+- SAP Cloud Platform 개발
+- ABAP 및 Java 기반 서비스 구현
+- CI/CD 파이프라인 구축
+- 기술 문서 작성
+
+Anforderungen:
+- 컴퓨터 과학 또는 관련 학위
+- Java, JavaScript 경험
+- 클라우드 네이티브 개발 이해
+- 영어 또는 독일어 능숙
+[/DOC]
+
+[ANSWER]
+요약:
+- Requirements: - PM 또는 엔지니어링 경력 8년 이상 - AI/ML 제품 경험 - 뛰어난 커뮤니케이션 스킬 - MBA 또는 CS 석사 우대  Benefits: - 의료/치과/안과 보험 - 401(k) 매칭 50% - Employee Stock Purchase Plan - 육아휴직 20주 - 웰니스 프로그램  TEL: +1-425-882-8080 ...
+
+체크리스트:
+- 해야 할 일:
+  - (1) 핵심 행동 1
+  - (2) 핵심 행동 2
+- 준비물:
+  - (1) 필요한 서류/정보
+- 주의사항:
+  - (1) 실수하기 쉬운 점
+
+연락처(공공정보):
+- TEL: +1-425-882-8080
+- WEB: https://careers.microsoft.com
+- EMAIL: careers@microsoft.com
+
+상세 설명:
+이 문서는 연락처 정보를 담고 있습니다.
+위 요약과 체크리스트를 기준으로 실제 상황에 맞게 단계별로 진행하세요.
+연락처 정보는 변경될 수 있으므로 공식 웹사이트에서 최신 정보를 확인하는 것이 좋습니다.
+[/ANSWER]
+
+[QUESTION]
+핵심 연락처와 주의사항을 정리해줘.
+[/QUESTION]
+
+[DOC]
+Vorteile:
+- 비자 스폰서십
+- 독일 건강보험
+- 연금 (Betriebsrente)
+- 유연근무제
+- 연간 30일 휴가
+
+TEL: +49-6227-7-47474
+EMAIL: careers@sap.com
+WEB: https://www.sap.com/careers
+
+=== 싱가포르 Grab 채용 ===
+
+Company: Grab Holdings
+Position: Data Scientist
+Location: Singapore (One-North Office)
+Type: Full-time
+Salary: SGD 80,000 - 150,000
+Experience: 2-5 years
+
+Job Description:
+- 사용자 행동 데이터 분석
+- 추천 알고리즘 개발
+- A/B 테스트 설계 및 분석
+- 비즈니스 인WEB: 도출
+
+Requirements:
+- Statistics, CS, Math 관련 학위
+- Python, SQL 능숙
+- 머신러닝 모델 개발 경험
+- 영어 커뮤니케이션
+
+Nice to have:
+- Spark, Hadoop 경험
+- 동남아시아 시장 이해
+- 스타트업 경험
+
+Benefits:
+- Grab 크레딧 월 지급
+- 건강보험
+- 주식 옵션
+- 유연근무
+[/DOC]
+
+[ANSWER]
+요약:
+- Vorteile: - 비자 스폰서십 - 독일 건강보험 - 연금 (Betriebsrente) - 유연근무제 - 연간 30일 휴가  TEL: +49-6227-7-47474 EMAIL: careers@sap.com WEB: https://www.sap.com/careers  === 싱가포르 Grab 채용 ===  Company: Grab Holdings Posi ...
+
+체크리스트:
+- 해야 할 일:
+  - (1) 핵심 행동 1
+  - (2) 핵심 행동 2
+- 준비물:
+  - (1) 필요한 서류/정보
+- 주의사항:
+  - (1) 실수하기 쉬운 점
+
+연락처(공공정보):
+- TEL: +49-6227-7-47474
+- WEB: https://www.sap.com/careers
+- WEB: 도출
+- EMAIL: careers@sap.com
+
+상세 설명:
+이 문서는 연락처 정보를 담고 있습니다.
+위 요약과 체크리스트를 기준으로 실제 상황에 맞게 단계별로 진행하세요.
+연락처 정보는 변경될 수 있으므로 공식 웹사이트에서 최신 정보를 확인하는 것이 좋습니다.
+[/ANSWER]
+
+[QUESTION]
+이 연락처 정보를 이해하기 쉽게 요약해줘.
+[/QUESTION]
+
+[DOC]
+TEL: +65-6380-5888
+EMAIL: careers@grab.com
+WEB: https://grab.careers
+
+=== 일본 라쿠텐 채용 ===
+
+会社名: 楽天グループ株式会社
+ポジション: Mobile App Developer (iOS/Android)
+勤務地: 東京都世田谷区玉川一丁目14番1号 楽天クリムゾンハウス
+雇用形態: 正社員
+給与: 年収 600万円 - 1,200万円
+経験: 3年以上
+
+業務内容:
+- 楽天市場 앱 개발
+- Swift/Kotlin 네이티브 개발
+- UI/UX 개선
+- 성능 최적화
+
+必須スキル:
+- iOS 또는 Android 개발 3년 이상
+- Swift 또는 Kotlin 능숙
+- Git 사용 경험
+- 영어 또는 일본어 비즈니스 레벨
+
+歓迎スキル:
+- 크로스플랫폼 (Flutter, React Native) 경험
+- CI/CD 경험
+- 애자일 개발 경험
+
+福利厚生:
+- 카페테리아 무료
+- 어학 교육 지원
+- 스톡옵션
+- 사내 피트니스
+
+電話: 050-5581-6910
+メール: recruit@mail.rakuten.com
+ウェブ: https://corp.rakuten.co.jp/careers
+
+=== 호주 Atlassian 채용 ===
+
+Company: Atlassian
+Position: Site Reliability Engineer (SRE)
+Location: Sydney, Australia
+Type: Full-time
+Salary: AUD 150,000 - 220,000
+Experience: 4+ years
+[/DOC]
+
+[ANSWER]
+요약:
+- TEL: +65-6380-5888 EMAIL: careers@grab.com WEB: https://grab.careers  === 일본 라쿠텐 채용 ===  会社名: 楽天グループ株式会社 ポジション: Mobile App Developer (iOS/Android) 勤務地: 東京都世田谷区玉川一丁目14番1号 楽天クリムゾンハウス 雇用形態: 正社員 給与: 年収 60 ...
+
+체크리스트:
+- 해야 할 일:
+  - (1) 핵심 행동 1
+  - (2) 핵심 행동 2
+- 준비물:
+  - (1) 필요한 서류/정보
+- 주의사항:
+  - (1) 실수하기 쉬운 점
+
+연락처(공공정보):
+- TEL: +65-6380-5888
+- WEB: https://grab.careers
+- EMAIL: careers@grab.com
+
+상세 설명:
+이 문서는 연락처 정보를 담고 있습니다.
+위 요약과 체크리스트를 기준으로 실제 상황에 맞게 단계별로 진행하세요.
+연락처 정보는 변경될 수 있으므로 공식 웹사이트에서 최신 정보를 확인하는 것이 좋습니다.
+[/ANSWER]
+
+[QUESTION]
+연락처가 있다면 함께 정리해줘.
+[/QUESTION]
+
+[DOC]
+About the role:
+- Jira, Confluence 클라우드 인프라 운영
+- 자동화 및 모니터링 시스템 구축
+- 인시던트 대응 및 포스트모템
+- 용량 계획 및 성능 최적화
+
+Requirements:
+- SRE/DevOps 경력 4년 이상
+- Linux 시스템 관리 능숙
+- AWS 또는 GCP 경험
+- Python, Go, Bash 스크립팅
+
+Nice to have:
+- Kubernetes 운영 경험
+- Terraform, Ansible 경험
+- 대규모 SaaS 운영 경험
+
+Perks:
+- 원격근무 옵션
+- 연간 $7,500 교육비
+- 5주 휴가
+- 직원 주식 구매 프로그램
+
+TEL: +61-2-9262-1443
+EMAIL: careers@atlassian.com
+WEB: https://www.atlassian.com/company/careers
+
+=== 네덜란드 Booking.com 채용 ===
+
+Company: Booking.com
+Position: Frontend Engineer
+Location: Amsterdam, Netherlands
+Type: Full-time
+Salary: €55,000 - €85,000
+Experience: 2+ years
+[/DOC]
+
+[ANSWER]
+요약:
+- About the role: - Jira, Confluence 클라우드 인프라 운영 - 자동화 및 모니터링 시스템 구축 - 인시던트 대응 및 포스트모템 - 용량 계획 및 성능 최적화  Requirements: - SRE/DevOps 경력 4년 이상 - Linux 시스템 관리 능숙 - AWS 또는 GCP 경험 - Python, Go, Bash 스크립팅  Ni ...
+
+체크리스트:
+- 해야 할 일:
+  - (1) 핵심 행동 1
+  - (2) 핵심 행동 2
+- 준비물:
+  - (1) 필요한 서류/정보
+- 주의사항:
+  - (1) 실수하기 쉬운 점
+
+연락처(공공정보):
+- TEL: +61-2-9262-1443
+- WEB: https://www.atlassian.com/company/careers
+- EMAIL: careers@atlassian.com
+
+상세 설명:
+이 문서는 연락처 정보를 담고 있습니다.
+위 요약과 체크리스트를 기준으로 실제 상황에 맞게 단계별로 진행하세요.
+연락처 정보는 변경될 수 있으므로 공식 웹사이트에서 최신 정보를 확인하는 것이 좋습니다.
+[/ANSWER]
+
+[QUESTION]
+이 연락처 정보를 이해하기 쉽게 요약해줘.
+[/QUESTION]
+
+[DOC]
+What you'll do:
+- 호텔 예약 WEB: 프론트엔드 개발
+- React/TypeScript 기반 UI 구현
+- A/B 테스트 및 성능 최적화
+- 접근성(a11y) 개선
+
+Requirements:
+- 프론트엔드 개발 2년 이상
+- JavaScript/TypeScript 능숙
+- React 또는 Vue 경험
+- 반응형 웹 개발 경험
+
+Bonus:
+- Node.js 백엔드 경험
+- GraphQL 경험
+- 성능 최적화 경험
+
+Benefits:
+- 비자 스폰서십 (30% ruling 적용)
+- 연금 플랜
+- 연간 여행 크레딧
+- 암스테르담 중심부 오피스
+
+TEL: +31-20-712-5600
+EMAIL: techjobs@booking.com
+WEB: https://careers.booking.com
+
+=== 중국 ByteDance (TikTok) 채용 ===
+
+公司: 字节跳动 (ByteDance)
+职位: Machine Learning Engineer
+地点: 北京市海淀区 / Singapore
+工作类型: 全职
+薪资: ¥500,000 - ¥1,500,000 CNY (Beijing)
+ SGD 100,000 - 200,000 (Singapore)
+经验: 3+ years
+[/DOC]
+
+[ANSWER]
+요약:
+- What you'll do: - 호텔 예약 WEB: 프론트엔드 개발 - React/TypeScript 기반 UI 구현 - A/B 테스트 및 성능 최적화 - 접근성(a11y) 개선  Requirements: - 프론트엔드 개발 2년 이상 - JavaScript/TypeScript 능숙 - React 또는 Vue 경험 - 반응형 웹 개발 경험  Bonus: - ...
+
+체크리스트:
+- 해야 할 일:
+  - (1) 핵심 행동 1
+  - (2) 핵심 행동 2
+- 준비물:
+  - (1) 필요한 서류/정보
+- 주의사항:
+  - (1) 실수하기 쉬운 점
+
+연락처(공공정보):
+- TEL: +31-20-712-5600
+- WEB: 프론트엔드
+- WEB: https://careers.booking.com
+- EMAIL: techjobs@booking.com
+
+상세 설명:
+이 문서는 연락처 정보를 담고 있습니다.
+위 요약과 체크리스트를 기준으로 실제 상황에 맞게 단계별로 진행하세요.
+연락처 정보는 변경될 수 있으므로 공식 웹사이트에서 최신 정보를 확인하는 것이 좋습니다.
+[/ANSWER]
+
+[QUESTION]
+연락처가 있다면 함께 정리해줘.
+[/QUESTION]
+
+[DOC]
+Job Description:
+- TikTok 추천 알고리즘 개발
+- 대규모 ML 모델 학습 및 배포
+- 실시간 피처 엔지니어링
+- 모델 성능 A/B 테스트
+
+Requirements:
+- ML/DL 관련 석사 이상 (박사 우대)
+- TensorFlow, PyTorch 능숙
+- C++, Python 프로그래밍
+- 분산 시스템 이해
+
+Preferred:
+- 추천 시스템 경험
+- NLP 또는 Computer Vision 전문성
+- 논문 게재 경험
+
+Benefits (Singapore):
+- 경쟁력 있는 연봉
+- 비자 스폰서십
+- 주식 보상
+- 연간 보너스
+
+TEL: +65-6977-7777 (Singapore)
+EMAIL: recruit@bytedance.com
+WEB: https://jobs.bytedance.com
+
+=== 캐나다 Shopify 채용 ===
+
+Company: Shopify Inc.
+Position: Staff Engineer - Payments
+Location: Remote (Canada) / Toronto Office
+Type: Full-time
+Salary: CAD 180,000 - 280,000
+Experience: 7+ years
+
+Role Overview:
+- 결제 시스템 아키텍처 설계
+- 글로벌 결제 인프라 확장
+- 기술 리더십 및 멘토링
+- 보안 및 컴플라이언스 준수
+[/DOC]
+
+[ANSWER]
+요약:
+- Job Description: - TikTok 추천 알고리즘 개발 - 대규모 ML 모델 학습 및 배포 - 실시간 피처 엔지니어링 - 모델 성능 A/B 테스트  Requirements: - ML/DL 관련 석사 이상 (박사 우대) - TensorFlow, PyTorch 능숙 - C++, Python 프로그래밍 - 분산 시스템 이해  Preferred: - 추 ...
+
+체크리스트:
+- 해야 할 일:
+  - (1) 핵심 행동 1
+  - (2) 핵심 행동 2
+- 준비물:
+  - (1) 필요한 서류/정보
+- 주의사항:
+  - (1) 실수하기 쉬운 점
+
+연락처(공공정보):
+- TEL: +65-6977-7777 (
+- WEB: https://jobs.bytedance.com
+- EMAIL: recruit@bytedance.com
+
+상세 설명:
+이 문서는 연락처 정보를 담고 있습니다.
+위 요약과 체크리스트를 기준으로 실제 상황에 맞게 단계별로 진행하세요.
+연락처 정보는 변경될 수 있으므로 공식 웹사이트에서 최신 정보를 확인하는 것이 좋습니다.
+[/ANSWER]
+
+[QUESTION]
+이 기관/서비스 이용 방법을 상세히 설명해줘.
+[/QUESTION]
+
+[DOC]
+Must have:
+- 시니어 엔지니어 경력 7년 이상
+- 결제/핀테크 도메인 경험
+- Ruby on Rails 또는 Go 경험
+- 분산 시스템 설계 경험
+
+Nice to have:
+- PCI-DSS 경험
+- 스타트업 초기 멤버 경험
+- 오픈소스 기여
+
+Benefits:
+- 완전 원격근무
+- 주식 옵션
+- 무제한 휴가
+- $5,000 홈오피스 셋업비
+- 건강/치과/안과 보험
+
+TEL: +1-613-241-2828
+EMAIL: talent@shopify.com
+WEB: https://www.shopify.com/careers
+
+=== 인도 Flipkart 채용 ===
+
+Company: Flipkart (Walmart Group)
+Position: Android Developer
+Location: Bangalore, Karnataka, India
+Type: Full-time
+Salary: ₹15,00,000 - ₹35,00,000 per annum
+Experience: 2-5 years
+
+Responsibilities:
+- Flipkart 안드로이드 앱 개발
+- 새로운 기능 구현 및 버그 수정
+- 성능 최적화
+- 코드 리뷰 참여
+
+Requirements:
+- Android 개발 2년 이상
+- Java/Kotlin 능숙
+- Android SDK 심층 이해
+- RESTful API 연동 경험
+[/DOC]
+
+[ANSWER]
+요약:
+- Must have: - 시니어 엔지니어 경력 7년 이상 - 결제/핀테크 도메인 경험 - Ruby on Rails 또는 Go 경험 - 분산 시스템 설계 경험  Nice to have: - PCI-DSS 경험 - 스타트업 초기 멤버 경험 - 오픈소스 기여  Benefits: - 완전 원격근무 - 주식 옵션 - 무제한 휴가 - $5,000 홈오피스 셋업비 - 건 ...
+
+체크리스트:
+- 해야 할 일:
+  - (1) 핵심 행동 1
+  - (2) 핵심 행동 2
+- 준비물:
+  - (1) 필요한 서류/정보
+- 주의사항:
+  - (1) 실수하기 쉬운 점
+
+연락처(공공정보):
+- TEL: +1-613-241-2828
+- WEB: https://www.shopify.com/careers
+- EMAIL: talent@shopify.com
+
+상세 설명:
+이 문서는 연락처 정보를 담고 있습니다.
+위 요약과 체크리스트를 기준으로 실제 상황에 맞게 단계별로 진행하세요.
+연락처 정보는 변경될 수 있으므로 공식 웹사이트에서 최신 정보를 확인하는 것이 좋습니다.
+[/ANSWER]
+
+[QUESTION]
+이 연락처 정보를 이해하기 쉽게 요약해줘.
+[/QUESTION]
+
+[DOC]
+Good to have:
+- MVVM, Clean Architecture 경험
+- Jetpack Compose 경험
+- Unit Testing 경험
+
+Perks:
+- 의료보험 (가족 포함)
+- Flipkart 직원 할인
+- 카페테리아
+- 통근 지원
+
+TEL: +91-80-4912-2000
+EMAIL: careers@flipkart.com
+WEB: https://www.flipkartcareers.com
+
+=== 프랑스 BlaBlaCar 채용 ===
+
+Entreprise: BlaBlaCar
+Poste: Backend Developer
+Lieu: Paris, France
+Type: CDI (정규직)
+Salaire: €50,000 - €75,000
+Expérience: 3+ ans
+
+Mission:
+- 카풀 매칭 알고리즘 개발
+- API 설계 및 구현
+- 마이크로서비스 아키텍처 개발
+- 데이터베이스 최적화
+
+Compétences requises:
+- PHP 또는 Go 백엔드 경험
+- MySQL, PostgreSQL 경험
+- REST API 설계
+- 영어 커뮤니케이션
+
+Avantages:
+- RTT (추가 휴가)
+- 티켓 레스토랑
+- 원격근무 (주 2회)
+- BlaBlaCar 무료 이용
+[/DOC]
+
+[ANSWER]
+요약:
+- Good to have: - MVVM, Clean Architecture 경험 - Jetpack Compose 경험 - Unit Testing 경험  Perks: - 의료보험 (가족 포함) - Flipkart 직원 할인 - 카페테리아 - 통근 지원  TEL: +91-80-4912-2000 EMAIL: careers@flipkart.com WEB: https ...
+
+체크리스트:
+- 해야 할 일:
+  - (1) 핵심 행동 1
+  - (2) 핵심 행동 2
+- 준비물:
+  - (1) 필요한 서류/정보
+- 주의사항:
+  - (1) 실수하기 쉬운 점
+
+연락처(공공정보):
+- TEL: +91-80-4912-2000
+- WEB: https://www.flipkartcareers.com
+- EMAIL: careers@flipkart.com
+
+상세 설명:
+이 문서는 연락처 정보를 담고 있습니다.
+위 요약과 체크리스트를 기준으로 실제 상황에 맞게 단계별로 진행하세요.
+연락처 정보는 변경될 수 있으므로 공식 웹사이트에서 최신 정보를 확인하는 것이 좋습니다.
+[/ANSWER]
+
+[QUESTION]
+이 연락처 정보를 이해하기 쉽게 요약해줘.
+[/QUESTION]
+
+[DOC]
+TEL: +33-1-85-76-22-27
+EMAIL: jobs@blablacar.com
+WEB: https://www.blablacar.com/dreamjobs
+
+=== 브라질 Nubank 채용 ===
+
+Empresa: Nubank
+Cargo: Software Engineer
+Local: São Paulo, Brasil (Remoto possível)
+Tipo: CLT (정규직)
+Salário: R$ 15,000 - R$ 35,000/mês
+Experiência: 2+ anos
+
+Descrição:
+- 핀테크 서비스 백엔드 개발
+- Clojure 기반 시스템 개발
+- AWS 클라우드 인프라 관리
+- 고가용성 시스템 설계
+
+Requisitos:
+- 소프트웨어 개발 2년 이상
+- 함수형 프로그래밍 (Clojure, Scala, Haskell 등)
+- 분산 시스템 경험
+- 영어 읽기/쓰기 가능
+
+Diferenciais:
+- 금융 도메인 경험
+- Datomic 경험
+- Kafka, AWS 경험
+
+Benefícios:
+- Nubank 카드 혜택
+- 건강보험 (Unimed)
+- 식비 지원
+- 주식 옵션
+
+TEL: +55-11-4020-0185
+EMAIL: careers@nubank.com.br
+WEB: https://nubank.com.br/carreiras
+[/DOC]
+
+[ANSWER]
+요약:
+- TEL: +33-1-85-76-22-27 EMAIL: jobs@blablacar.com WEB: https://www.blablacar.com/dreamjobs  === 브라질 Nubank 채용 ===  Empresa: Nubank Cargo: Software Engineer Local: São Paulo, Brasil (Remoto possível) Ti ...
+
+체크리스트:
+- 해야 할 일:
+  - (1) 핵심 행동 1
+  - (2) 핵심 행동 2
+- 준비물:
+  - (1) 필요한 서류/정보
+- 주의사항:
+  - (1) 실수하기 쉬운 점
+
+연락처(공공정보):
+- TEL: +33-1-85-76-22-27
+- TEL: +55-11-4020-0185
+- WEB: https://www.blablacar.com/dreamjobs
+- WEB: https://nubank.com.br/carreiras
+- EMAIL: jobs@blablacar.com
+- EMAIL: careers@nubank.com.br
+
+상세 설명:
+이 문서는 연락처 정보를 담고 있습니다.
+위 요약과 체크리스트를 기준으로 실제 상황에 맞게 단계별로 진행하세요.
+연락처 정보는 변경될 수 있으므로 공식 웹사이트에서 최신 정보를 확인하는 것이 좋습니다.
+[/ANSWER]
+
+[QUESTION]
+이 연락처 정보를 이해하기 쉽게 요약해줘.
+[/QUESTION]
+
+[DOC]
+=== 이스라엘 Wix 채용 ===
+
+Company: Wix.com Ltd.
+Position: Full Stack Developer
+Location: TEL: Aviv, Israel
+Type: Full-time
+Salary: ₪25,000 - ₪45,000/month
+Experience: 3+ years
+
+About the role:
+- Wix 에디터 기능 개발
+- React/Node.js 풀스택 개발
+- 사용자 경험 최적화
+- A/B 테스트 및 데이터 분석
+
+Requirements:
+- 풀스택 개발 3년 이상
+- React, Node.js 능숙
+- TypeScript 경험
+- 영어 업무 가능
+
+Nice to have:
+- Wix 플랫폼 사용 경험
+- 성능 최적화 경험
+- 모바일 개발 경험
+
+Benefits:
+- 주식 옵션
+- 무료 점심
+- 피트니스 센터
+- 하이브리드 근무
+
+TEL: +972-3-545-4900
+EMAIL: jobs@wix.com
+WEB: https://www.wix.com/jobs
+
+=== 스웨덴 Spotify 채용 ===
+
+Company: Spotify AB
+Position: Data Engineer
+Location: Stockholm, Sweden
+Type: Full-time
+Salary: SEK 55,000 - 85,000/month
+Experience: 3+ years
+[/DOC]
+
+[ANSWER]
+요약:
+- === 이스라엘 Wix 채용 ===  Company: Wix.com Ltd. Position: Full Stack Developer Location: TEL: Aviv, Israel Type: Full-time Salary: ₪25,000 - ₪45,000/month Experience: 3+ years  About the role: - Wix 에디터 기능 ...
+
+체크리스트:
+- 해야 할 일:
+  - (1) 핵심 행동 1
+  - (2) 핵심 행동 2
+- 준비물:
+  - (1) 필요한 서류/정보
+- 주의사항:
+  - (1) 실수하기 쉬운 점
+
+연락처(공공정보):
+- TEL: +972-3-545-4900
+- WEB: https://www.wix.com/jobs
+- EMAIL: jobs@wix.com
+
+상세 설명:
+이 문서는 연락처 정보를 담고 있습니다.
+위 요약과 체크리스트를 기준으로 실제 상황에 맞게 단계별로 진행하세요.
+연락처 정보는 변경될 수 있으므로 공식 웹사이트에서 최신 정보를 확인하는 것이 좋습니다.
+[/ANSWER]
+
+[QUESTION]
+핵심 연락처와 주의사항을 정리해줘.
+[/QUESTION]
+
+[DOC]
+What you'll do:
+- 음악 스트리밍 데이터 파이프라인 구축
+- 실시간 데이터 처리 시스템 개발
+- 데이터 웨어하우스 설계
+- ML 팀과 협업
+
+Requirements:
+- 데이터 엔지니어링 3년 이상
+- Python, Scala 능숙
+- Spark, Kafka 경험
+- SQL 고급 수준
+
+Nice to have:
+- GCP (BigQuery, Dataflow) 경험
+- 음악/미디어 도메인 이해
+- Airflow 경험
+
+Perks:
+- 비자 스폰서십
+- Spotify Premium 무료
+- 연금 플랜
+- 부모 휴가 6개월
+- 유연근무
+
+TEL: +46-8-545-286-00
+EMAIL: careers@spotify.com
+WEB: https://www.lifeatspotify.com
+
+=== 한국 네이버 채용 ===
+
+회사명: 네이버 주식회사
+포지션: Search Engineer
+부서: Search Platform
+위치: 경기도 성남시 분당구 정자일로 95
+고용형태: 정규직
+연봉: 6,000만원 - 1억 2천만원
+경력: 3년 이상
+
+업무 내용:
+- 네이버 검색 엔진 개발
+- 대용량 인덱싱 시스템 구축
+- 검색 품질 개선
+- 실시간 검색어 처리
+
+자격 요건:
+- 검색 또는 IR 관련 경력 3년 이상
+- Java, C++ 능숙
+- 분산 시스템 경험
+- 자료구조/알고리즘 깊은 이해
+[/DOC]
+
+[ANSWER]
+요약:
+- What you'll do: - 음악 스트리밍 데이터 파이프라인 구축 - 실시간 데이터 처리 시스템 개발 - 데이터 웨어하우스 설계 - ML 팀과 협업  Requirements: - 데이터 엔지니어링 3년 이상 - Python, Scala 능숙 - Spark, Kafka 경험 - SQL 고급 수준  Nice to have: - GCP (BigQuery, D ...
+
+체크리스트:
+- 해야 할 일:
+  - (1) 핵심 행동 1
+  - (2) 핵심 행동 2
+- 준비물:
+  - (1) 필요한 서류/정보
+- 주의사항:
+  - (1) 실수하기 쉬운 점
+
+연락처(공공정보):
+- TEL: +46-8-545-286-00
+- WEB: https://www.lifeatspotify.com
+- EMAIL: careers@spotify.com
+
+상세 설명:
+이 문서는 연락처 정보를 담고 있습니다.
+위 요약과 체크리스트를 기준으로 실제 상황에 맞게 단계별로 진행하세요.
+연락처 정보는 변경될 수 있으므로 공식 웹사이트에서 최신 정보를 확인하는 것이 좋습니다.
+[/ANSWER]
+
+[QUESTION]
+핵심 연락처와 주의사항을 정리해줘.
+[/QUESTION]
+
+[DOC]
+우대 사항:
+- Elasticsearch, Lucene 경험
+- NLP 경험
+- 대규모 트래픽 처리 경험
+
+복리후생:
+- 카페테리아 (무료 식사)
+- 사내 어린이집
+- 헬스케어 프로그램
+- 자기계발비 지원
+
+TEL: 1588-3820
+EMAIL: recruit@navercorp.com
+WEB: https://recruit.navercorp.com
+
+=== 영국 DeepMind 채용 ===
+
+Company: DeepMind (Google)
+Position: Research Scientist
+Location: London, United Kingdom
+Type: Full-time
+Salary: £80,000 - £150,000
+Experience: PhD + 2 years
+
+About the role:
+- AI/ML 연구 프로젝트 리드
+- 논문 작성 및 학회 발표
+- 최신 딥러닝 모델 연구
+- 오픈소스 프로젝트 기여
+
+Requirements:
+- AI/ML 관련 PhD
+- 탑티어 학회 논문 게재 경험
+- Python, TensorFlow/JAX 능숙
+- 연구 리더십 경험
+
+Preferred:
+- 강화학습, NLP, Computer Vision 전문성
+- 산업 연구 경험
+- 영어 프레젠테이션 능력
+[/DOC]
+
+[ANSWER]
+요약:
+- 우대 사항: - Elasticsearch, Lucene 경험 - NLP 경험 - 대규모 트래픽 처리 경험  복리후생: - 카페테리아 (무료 식사) - 사내 어린이집 - 헬스케어 프로그램 - 자기계발비 지원  TEL: 1588-3820 EMAIL: recruit@navercorp.com WEB: https://recruit.navercorp.com  === ...
+
+체크리스트:
+- 해야 할 일:
+  - (1) 핵심 행동 1
+  - (2) 핵심 행동 2
+- 준비물:
+  - (1) 필요한 서류/정보
+- 주의사항:
+  - (1) 실수하기 쉬운 점
+
+연락처(공공정보):
+- TEL: 1588-3820
+- WEB: https://recruit.navercorp.com
+- EMAIL: recruit@navercorp.com
+
+상세 설명:
+이 문서는 연락처 정보를 담고 있습니다.
+위 요약과 체크리스트를 기준으로 실제 상황에 맞게 단계별로 진행하세요.
+연락처 정보는 변경될 수 있으므로 공식 웹사이트에서 최신 정보를 확인하는 것이 좋습니다.
+[/ANSWER]
+
+[QUESTION]
+연락처가 있다면 함께 정리해줘.
+[/QUESTION]
+
+[DOC]
+Benefits:
+- 경쟁력 있는 연봉 + 보너스
+- Google 주식 보상
+- 비자 스폰서십
+- 연구 자율성 보장
+- 학회 참가 지원
+
+TEL: +44-20-3608-0100
+EMAIL: careers@deepmind.com
+WEB: https://deepmind.com/careers
+
+=== UAE 카림 (Careem) 채용 ===
+
+Company: Careem (Uber)
+Position: iOS Developer
+Location: Dubai, UAE
+Type: Full-time
+Salary: AED 20,000 - 40,000/month
+Experience: 3+ years
+
+Role:
+- Careem 앱 iOS 개발
+- Swift/SwiftUI 기반 개발
+- 결제 시스템 연동
+- 위치 기반 서비스 개발
+
+Requirements:
+- iOS 개발 3년 이상
+- Swift 능숙
+- UIKit, SwiftUI 경험
+- Git 협업 경험
+
+Nice to have:
+- 아랍어 능력
+- 중동 시장 이해
+- Uber 또는 유사 앱 개발 경험
+
+Benefits:
+- 세금 없음 (UAE)
+- 의료보험
+- 비행기 티켓 (연 1회)
+- Careem 크레딧
+
+TEL: +971-4-456-5200
+EMAIL: careers@careem.com
+WEB: https://www.careem.com/careers
+[/DOC]
+
+[ANSWER]
+요약:
+- Benefits: - 경쟁력 있는 연봉 + 보너스 - Google 주식 보상 - 비자 스폰서십 - 연구 자율성 보장 - 학회 참가 지원  TEL: +44-20-3608-0100 EMAIL: careers@deepmind.com WEB: https://deepmind.com/careers  === UAE 카림 (Careem) 채용 ===  Company: C ...
+
+체크리스트:
+- 해야 할 일:
+  - (1) 핵심 행동 1
+  - (2) 핵심 행동 2
+- 준비물:
+  - (1) 필요한 서류/정보
+- 주의사항:
+  - (1) 실수하기 쉬운 점
+
+연락처(공공정보):
+- TEL: +44-20-3608-0100
+- TEL: +971-4-456-5200
+- WEB: https://deepmind.com/careers
+- WEB: https://www.careem.com/careers
+- EMAIL: careers@deepmind.com
+- EMAIL: careers@careem.com
+
+상세 설명:
+이 문서는 연락처 정보를 담고 있습니다.
+위 요약과 체크리스트를 기준으로 실제 상황에 맞게 단계별로 진행하세요.
+연락처 정보는 변경될 수 있으므로 공식 웹사이트에서 최신 정보를 확인하는 것이 좋습니다.
+[/ANSWER]
+

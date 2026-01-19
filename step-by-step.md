@@ -26,6 +26,8 @@ uv init
 
 `uv init` 명령어가 `pyproject.toml` 파일을 생성합니다.
 
+> 📚 **참고**: [02-project-structure.md](docs/02-project-structure.md) - 프로젝트 구조
+
 ---
 
 ## 2단계: 패키지 설치
@@ -41,6 +43,8 @@ uv add torch tokenizers tqdm numpy
 | `tqdm` | 진행률 표시 |
 | `numpy` | 수치 연산 |
 
+> 📚 **참고**: [01-environment-setup.md](docs/01-environment-setup.md) - 환경 설정
+
 ---
 
 ## 3단계: MPS 확인
@@ -53,9 +57,13 @@ uv run python -c "import torch; print('MPS 사용 가능:', torch.backends.mps.i
 
 `True`가 출력되면 GPU 가속을 사용할 수 있습니다.
 
+> 📚 **참고**: [01-environment-setup.md](docs/01-environment-setup.md) - 환경 설정
+
 ---
 
 ## 4단계: 폴더 구조 생성
+
+LLM 학습에 필요한 폴더들을 생성합니다.
 
 ```bash
 mkdir -p data scripts checkpoints
@@ -69,6 +77,22 @@ jai/
 └── pyproject.toml  # 프로젝트 설정
 ```
 
+### 각 폴더 역할
+
+| 폴더 | 용도 | 생성되는 파일 |
+|------|------|---------------|
+| `data/` | 학습 데이터 저장 | `raw.txt`, `samples.txt`, `tokenizer.json`, `train.bin`, `val.bin` |
+| `scripts/` | 실행 스크립트 | `prepare_samples.py`, `train_tokenizer.py`, `build_bin_dataset.py`, `train_gpt.py`, `generate.py` |
+| `checkpoints/` | 학습된 모델 저장 | `ckpt.pt` (모델 가중치, 옵티마이저 상태) |
+
+### 개념 설명
+
+- [체크포인트 파일 (`ckpt.pt`)](study.md#체크포인트-파일-ckptpt) - 모델 가중치, 옵티마이저 상태, 학습 단계
+- [모델 가중치 vs 벡터](study.md#모델-가중치-vs-벡터) - 역할과 형태의 차이
+- [파라미터란?](study.md#파라미터-parameter) - 모델이 학습하는 조절 가능한 숫자
+
+> 📚 **참고**: [02-project-structure.md](docs/02-project-structure.md) - 프로젝트 구조
+
 ---
 
 ## 5단계: 데이터 준비
@@ -80,6 +104,8 @@ uv run python scripts/prepare_samples.py
 ```
 
 **결과**: `data/samples.txt` 생성
+
+> 📚 **참고**: [03-data-preparation.md](docs/03-data-preparation.md) - 데이터 전처리
 
 ---
 
@@ -93,6 +119,8 @@ uv run python scripts/train_tokenizer.py
 
 **결과**: `data/tokenizer.json` 생성
 
+> 📚 **참고**: [04-tokenizer.md](docs/04-tokenizer.md) - 토크나이저
+
 ---
 
 ## 7단계: 바이너리 데이터셋 생성
@@ -104,6 +132,8 @@ uv run python scripts/build_bin_dataset.py
 ```
 
 **결과**: `data/train.bin`, `data/val.bin` 생성
+
+> 📚 **참고**: [03-data-preparation.md](docs/03-data-preparation.md) - 데이터 전처리
 
 ---
 
@@ -125,6 +155,8 @@ step 100: train loss 6.543, val loss 6.612
 ```
 
 Loss가 점점 줄어들면 학습이 잘 되고 있는 것입니다.
+
+> 📚 **참고**: [05-model-architecture.md](docs/05-model-architecture.md) - 모델 아키텍처 | [06-training.md](docs/06-training.md) - GPT 학습
 
 ---
 
@@ -154,6 +186,8 @@ uv run python scripts/generate.py
 [/ANSWER]
 ```
 
+> 📚 **참고**: [07-generation.md](docs/07-generation.md) - 텍스트 생성
+
 ---
 
 ## 전체 실행 순서 요약
@@ -172,13 +206,3 @@ uv run python scripts/train_gpt.py
 uv run python scripts/generate.py
 ```
 
----
-
-## 다음 단계
-
-각 스크립트의 상세 구현은 `docs/` 폴더를 참조하세요:
-
-- [03-data-preparation.md](docs/03-data-preparation.md) - 데이터 전처리
-- [04-tokenizer.md](docs/04-tokenizer.md) - 토크나이저
-- [06-training.md](docs/06-training.md) - GPT 학습
-- [07-generation.md](docs/07-generation.md) - 텍스트 생성
