@@ -1,11 +1,11 @@
-# CAI (Contact AI)
+# JAI (Job AI)
 
-전 세계의 개인, 회사, 각종 서비스 연락처를 제공하는 나만의 LLM을 처음부터(from scratch) 만드는 프로젝트입니다.
+전 세계의 구인/구직 정보를 제공하는 Job LLM을 처음부터(from scratch) 만드는 프로젝트입니다.
 
 ## 프로젝트 목표
 
 - **100% 직접 구현**: 파인튜닝이 아닌, 토크나이저부터 GPT 모델까지 처음부터 학습
-- **요약/정리형 출력**: 체크리스트, 연락처, 상세 설명을 구조화된 형식으로 생성
+- **요약/정리형 출력**: 체크리스트, 구인/구직 정보, 상세 설명을 구조화된 형식으로 생성
 - **Mac M4 최적화**: MPS(Metal Performance Shaders) GPU 가속 지원
 
 ## 단계별 가이드
@@ -22,14 +22,14 @@ uv add torch tokenizers tqdm numpy
 uv run python scripts/prepare_samples.py      # 데이터 전처리
 uv run python scripts/train_tokenizer.py      # 토크나이저 학습
 uv run python scripts/build_bin_dataset.py    # 바이너리 데이터셋 생성
-uv run python scripts/train_gpt.py         # GPT 모델 학습
+uv run python scripts/train_gpt.py            # GPT 모델 학습
 uv run python scripts/generate.py             # 텍스트 생성
 ```
 
 ## 프로젝트 구조
 
 ```
-cai/
+jai/
   data/                  # 데이터 디렉토리
   scripts/               # 실행 스크립트
     prepare_samples.py   # 데이터 전처리
@@ -64,7 +64,7 @@ cai/
 2. **Embedding**: 토큰 ID → 고차원 벡터
 3. **Self-Attention**: 문맥 내 단어 간 관계 학습
 4. **Next-token Prediction**: GPT의 유일한 학습 목표
-5. **데이터 포맷 = 모델 능력**: 요약형 데이터로 학습하면 요약형으로 출력
+5. **데이터 포맷 = 모델 능력**: 구인/구직 데이터로 학습하면 구인/구직 정보 출력
 
 ## 권장 하이퍼파라미터 (M4 기준)
 
@@ -82,22 +82,23 @@ cai/
 ```
 [ANSWER]
 요약:
-- 주요 도시 한국 대사관/영사관 위치 및 연락처 정리
-- 업무시간: 평일 09:00-17:00
+- 미국 실리콘밸리 소프트웨어 엔지니어 채용 정보
+- 지원 마감: 2024-12-31
 
 체크리스트:
-- 해야 할 일:
-  - (1) 방문 전 전화 예약
-  - (2) 필요 서류 사전 확인
+- 지원 자격:
+  - (1) CS 학위 또는 관련 경력 3년 이상
+  - (2) Python, JavaScript 능숙
 - 준비물:
-  - (1) 여권 원본
-  - (2) 신청서
+  - (1) 이력서 (영문)
+  - (2) 포트폴리오
 
-연락처(공공정보):
-- 대한민국 대사관
-  - TEL: +1-202-939-5600
-  - ADDR: 2450 Massachusetts Ave NW, Washington, DC
-  - WEB: https://overseas.mofa.go.kr/
+구인 정보:
+- Google Inc.
+  - 포지션: Senior Software Engineer
+  - 연봉: $150,000 - $200,000
+  - 위치: Mountain View, CA
+  - WEB: https://careers.google.com/
 
 상세 설명:
 ...

@@ -1,5 +1,5 @@
 # =============================================================================
-# CAI (Contact AI) 프로젝트 설정 파일
+# JAI (Job AI) 프로젝트 설정 파일
 # =============================================================================
 # pyproject.toml은 Python 프로젝트의 표준 설정 파일입니다.
 # PEP 518, PEP 621에 정의된 형식을 따릅니다.
@@ -8,7 +8,7 @@
 
 [project]
 # 프로젝트 이름 (패키지 배포 시 사용되는 고유 식별자)
-name = "cai"
+name = "jai"
 
 # 프로젝트 버전 (시맨틱 버저닝: MAJOR.MINOR.PATCH)
 # - MAJOR: 호환되지 않는 API 변경
@@ -17,7 +17,7 @@ name = "cai"
 version = "0.1.0"
 
 # 프로젝트 설명 (PyPI 등에 표시됨)
-description = "전 세계 연락처 정보를 제공하는 LLM을 처음부터 구현하는 학습 프로젝트"
+description = "전 세계 구인/구직 정보를 제공하는 Job LLM을 처음부터 구현하는 학습 프로젝트"
 
 # README 파일 경로 (프로젝트 상세 설명)
 readme = "README.md"
@@ -54,7 +54,7 @@ dependencies = [
 
 # [project.scripts]
 # # CLI 명령어 등록 (패키지 설치 후 터미널에서 실행 가능)
-# cai = "cai.main:main"
+# jai = "jai.main:main"
 
 # [tool.uv]
 # # uv 패키지 매니저 전용 설정

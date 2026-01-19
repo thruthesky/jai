@@ -8,12 +8,12 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## 프로젝트 개요
 
-CAI (Contact AI)는 전 세계 연락처 정보를 제공하는 LLM을 처음부터(from scratch) 구현하는 학습 프로젝트입니다. 파인튜닝이 아닌, 토크나이저부터 GPT 모델까지 직접 구현합니다.
+JAI (Job AI)는 전 세계 구인/구직 정보를 제공하는 Job LLM을 처음부터(from scratch) 구현하는 학습 프로젝트입니다. 파인튜닝이 아닌, 토크나이저부터 GPT 모델까지 직접 구현합니다.
 
 ## 프로젝트 구조
 
 ```
-cai/
+jai/
   data/
     raw.txt              # 원본 데이터
     samples.txt          # 전처리된 학습 샘플
@@ -41,7 +41,7 @@ uv add torch tokenizers tqdm numpy
 uv run python scripts/prepare_samples.py      # 데이터 전처리 → data/samples.txt
 uv run python scripts/train_tokenizer.py      # BPE 토크나이저 → data/tokenizer.json
 uv run python scripts/build_bin_dataset.py    # 바이너리 변환 → data/train.bin, data/val.bin
-uv run python scripts/train_gpt.py         # GPT 학습 → checkpoints/ckpt.pt
+uv run python scripts/train_gpt.py            # GPT 학습 → checkpoints/ckpt.pt
 uv run python scripts/generate.py             # 텍스트 생성
 ```
 
@@ -73,8 +73,10 @@ data/raw.txt → scripts/prepare_samples.py → samples.txt → 토큰화 → tr
 - ...
 체크리스트:
 - ...
-연락처(공공정보):
-- TEL: ...
+구인 정보:
+- 회사: ...
+- 포지션: ...
+- 연봉: ...
 상세 설명:
 ...
 [/ANSWER]

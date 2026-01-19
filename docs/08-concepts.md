@@ -189,7 +189,7 @@ x = LayerNorm(x)
 x = x + Attention(LayerNorm(x))
 ```
 
-CAI는 **Pre-LayerNorm** 사용 (GPT-2 스타일)
+JAI는 **Pre-LayerNorm** 사용 (GPT-2 스타일)
 
 ---
 
@@ -285,9 +285,9 @@ next_token = sample(top_k_probs)
 | 요약문이 많음 | 요약 잘함 |
 | 체크리스트 많음 | 체크리스트 생성 |
 | Q&A 형식 | 질문에 답변 |
-| 연락처 정보 | 연락처 형식 출력 |
+| 구인/구직 정보 | 구인/구직 형식 출력 |
 
-### CAI의 데이터 전략
+### JAI의 데이터 전략
 
 ```
 [QUESTION]
@@ -301,8 +301,9 @@ next_token = sample(top_k_probs)
 체크리스트:
 - ...
 
-연락처:
-- TEL: ...
+구인 정보:
+- 회사: ...
+- 포지션: ...
 
 상세 설명:
 ...

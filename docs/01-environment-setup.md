@@ -2,7 +2,7 @@
 
 ## 개요
 
-CAI 프로젝트는 **Macbook M4 (MPS GPU)**를 기준으로 설계되었습니다.
+JAI 프로젝트는 **Macbook M4 (MPS GPU)**를 기준으로 설계되었습니다.
 Apple Silicon은 PyTorch의 MPS(Metal Performance Shaders) GPU 가속을 지원합니다.
 
 ## 1. uv 설치
